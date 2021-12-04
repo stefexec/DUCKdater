@@ -21,7 +21,7 @@
   <a href="#how-to-use">How To Use</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://github.com/stefexec/DUCKdater/blob/main/images/duckdater_menu.png)
 
 ## Key Features
 
