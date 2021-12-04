@@ -21,7 +21,9 @@
   <a href="#how-to-use">How To Use</a> •
 </p>
 
+<p align="center">
 ![screenshot](https://github.com/stefexec/DUCKdater/blob/main/images/duckdater_menu.png)
+</p>
 
 ## Key Features
 
