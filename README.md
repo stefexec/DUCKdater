@@ -36,8 +36,6 @@
 
 ## How To Use
 
-DON'T FORGET: Set your DuckDNS token in the duckdater.py file!
-
 To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
 
 ```bash
@@ -51,7 +49,6 @@ $ cd DUCKdater
 $ pip install -r requirements.txt
 
 # Run the program
-# Before you start the script for the first time, you need to set your DuckDNS token in the duckdater.py file!
 $ python3 duckdater.py
 ```
 
