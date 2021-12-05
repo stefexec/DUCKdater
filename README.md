@@ -1,4 +1,4 @@
-# DUCKdater v1.0
+# DUCKdater v1.1
 
 
 <h1 align="center">
